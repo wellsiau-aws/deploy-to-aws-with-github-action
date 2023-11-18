@@ -16,3 +16,7 @@ Follow the instruction on the workshop for steps by steps detail on how to use t
 ## Workflow
 
 * [./.github/workflows/](./.github/workflows/) directory contain several workflow files to assist you on the workshop.
+
+## Final Architecture
+
+![Architecture](/static/images/deploy-to-aws-with-github-action.png)
