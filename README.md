@@ -1,4 +1,4 @@
-# deploy-to-aws-with-github-action (solution)
+# Deploying to AWS with GitHub Action
 
 **WARNING:** this is the final solution, use the `main` branch to get started.
 
