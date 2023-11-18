@@ -28,7 +28,7 @@ jobs:
     permissions:
       id-token: write # need this for OIDC
       contents: read
-    environment: ${{ github.ref_name }}
+    environment: main
     outputs:
       app_url: ${{ steps.set_app_url.outputs.app_url }}
       app_ip:  ${{ steps.set_app_ip.outputs.app_ip }}

@@ -12,7 +12,7 @@ jobs:
     permissions:
       id-token: write # need this for OIDC
       contents: read
-    environment: ${{ github.ref_name }} # need this to fetch variables and secrets
+    environment: main
     outputs:
       image-tag: ${{ steps.set-image-tag.outputs.IMAGE_TAG }} 
     steps:
