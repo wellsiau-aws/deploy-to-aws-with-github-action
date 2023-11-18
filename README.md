@@ -1,4 +1,4 @@
-# deploy-to-aws-with-github-action
+# Deploying to AWS with GitHub Action
 
 Repository template for workshop: Deploying to AWS with GitHub Action
 
@@ -16,7 +16,6 @@ Follow the instruction on the workshop for steps by steps detail on how to use t
 ## Workflow
 
 * [./.github/workflows/](./.github/workflows/) directory contain several workflow files to assist you on the workshop.
-
 
 ## Final Architecture
 
